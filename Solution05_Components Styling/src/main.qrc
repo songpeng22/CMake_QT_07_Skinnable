@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>styles/componentCreation.js</file>
+        <file>styles/AbstractStyle.qml</file>
+        <file>styles/skin1/Style.qml</file>
+        <file>styles/skin2/Style.qml</file>
+    </qresource>
+</RCC>
